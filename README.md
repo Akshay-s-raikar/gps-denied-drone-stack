@@ -1,4 +1,4 @@
-<img width="116" height="93" alt="image" src="https://github.com/user-attachments/assets/d191d943-395f-4bdd-8938-827042ec05ba" /># Autonomous GPS-Denied Drone Stack — IRoC-U 2026
+# Autonomous GPS-Denied Drone Stack — IRoC-U 2026
 
 **Team Drone Aacharya (Team 10278)** — an autonomous quadcopter that searches a GPS-denied arena, detects target rocks using a rotation-invariant vision pipeline, and performs AprilTag-based precision landing with active yaw correction.
 
