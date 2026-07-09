@@ -1,8 +1,8 @@
-# Autonomous GPS-Denied Drone Stack — IRoC-U 2026
+<img width="116" height="93" alt="image" src="https://github.com/user-attachments/assets/d191d943-395f-4bdd-8938-827042ec05ba" /># Autonomous GPS-Denied Drone Stack — IRoC-U 2026
 
 **Team Drone Aacharya (Team 10278)** — an autonomous quadcopter that searches a GPS-denied arena, detects target rocks using a rotation-invariant vision pipeline, and performs AprilTag-based precision landing with active yaw correction.
 
-[![Watch the demo](https://drive.google.com/file/d/1bbtUjHMVkHCxwzdeUsTDL2EYbhRmougO/view?usp=sharing)](https://youtu.be/YOUR_VIDEO_LINK)
+[![Watch the demo](image.jpg)](https://drive.google.com/file/d/1gg_JRKSxSIIwGsoBJ_Ruk7hK_8Kna9sr/view?usp=sharing)
 *(Click to watch the full autonomous arena mission flight)*
 
 ---
@@ -81,7 +81,7 @@ Single script that starts the full stack in order: MAVProxy → EKF origin/GPS s
 
 ## Demo
 
-- 🎥 Full autonomous arena mission: [link]
+- 🎥 Full autonomous arena mission: [https://drive.google.com/file/d/1gg_JRKSxSIIwGsoBJ_Ruk7hK_8Kna9sr/view?usp=sharing]
 - 📷 Hardware photos: `/docs/images`
 
 ---
