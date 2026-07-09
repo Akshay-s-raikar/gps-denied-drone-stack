@@ -2,8 +2,7 @@
 
 **Team Drone Aacharya (Team 10278)** — an autonomous quadcopter that searches a GPS-denied arena, detects target rocks using a rotation-invariant vision pipeline, and performs AprilTag-based precision landing with active yaw correction.
 
-[![Watch the demo](<img width="4080" height="2294" alt="IMG_20260620_074615517_HDR jpg" src="https://github.com/user-attachments/assets/7051f8c5-8132-46b6-8b0e-2635112a06ef" />
-)(https://drive.google.com/file/d/1gg_JRKSxSIIwGsoBJ_Ruk7hK_8Kna9sr/view?usp=sharing)
+[![Watch the demo](https://github.com/user-attachments/assets/7051f8c5-8132-46b6-8b0e-2635112a06ef)](https://drive.google.com/file/d/1gg_JRKSxSIIwGsoBJ_Ruk7hK_8Kna9sr/view?usp=sharing)
 *(Click to watch the full autonomous arena mission flight)*
 
 ---
