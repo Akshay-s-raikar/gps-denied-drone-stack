@@ -82,7 +82,8 @@ Single script that starts the full stack in order: MAVProxy → EKF origin/GPS s
 ## Demo
 
 - 🎥 Full autonomous arena mission: [https://drive.google.com/file/d/1gg_JRKSxSIIwGsoBJ_Ruk7hK_8Kna9sr/view?usp=sharing]
-- 📷 Hardware photos: `docs/hardware.jpg`
+- 📷 Hardware photos: <img width="1280" height="960" alt="WhatsApp Image 2026-07-08 at 2 10 35 PM" src="https://github.com/user-attachments/assets/50fb88ad-3fee-4634-8cad-96a339354617" />
+
 
 ---
 
